@@ -1,0 +1,80 @@
+*{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+body{
+    background-color: lightgray;
+}
+#titleName{
+    position: absolute;
+    top: 25%;
+    left: 28%;
+}
+#food{
+    padding-left: 80px;
+}
+#titleImage{
+    width: 80%;
+    height: 600px;
+}
+#pizza{
+    background-color:goldenrod;
+    width: 80%;
+    height: 560px;
+}
+#favFood1{
+    text-align: center;
+    color: white;
+}
+#foodDescription{
+    text-align: center;
+    color: white;
+}
+#favFoodImage1{
+    width: 60%;
+    margin-left: 20%;
+    border: 3px solid white;
+    border-collapse: collapse;
+    padding: 1%;
+}
+#chicken{
+    background-color:rgb(177, 4, 177);
+    width: 80%;
+    height: 640px;
+}
+#favFood2{
+    text-align: center;
+    color: white;
+}
+#foodDescription2{
+    text-align: center;
+    color: white;
+}
+#favFoodImage2{
+    width: 60%;
+    margin-left: 20%;
+    border: 3px solid white;
+    border-collapse: collapse;
+    padding: 1%;
+}
+#salad{
+    background-color:rgb(12, 170, 194);
+    width: 80%;
+    height: 660px;
+}
+#favFood3{
+    text-align: center;
+    color: white;
+}
+#foodDescription3{
+    text-align: center;
+    color: white;
+}
+#favFoodImage3{
+    width: 60%;
+    height: 480px;
+    margin-left: 20%;
+    border: 3px solid white;
+    border-collapse: collapse;
+    padding: 1%;
+}

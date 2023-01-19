@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(164, 222, 164);
+}
+#salad{
+    color: darkblue;
+    text-align: center;
+}
+img{
+    padding-left: 20%;
+    width: 60%;
+    height: 600px;
+}
+#benefits{
+    color: blue;
+    text-align: center;
+}
+#Paragraphtag{
+    color: darkblue;
+    text-align: center;
+}
+#steps{
+    color: blue;
+    text-align: center;
+}
+#unorderedList{
+    text-align: center;
+    list-style-position: inside;
+}
+li{
+    color: darkblue;
+    text-align: center;
+}
+#footerText{
+    color: darkblue;
+    text-align: center;
+}
